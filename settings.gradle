@@ -1,0 +1,2 @@
+rootProject.name = "SharedPre"
+include ':app'
